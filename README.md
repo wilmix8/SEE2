@@ -2,7 +2,7 @@
 ==========
 
 
-SLINGPART2(SEE2)    is a  powerful big  sky  technology invented    in  JDollar  by  wilmix jemin  j for  cloud  computing at  year  2016.
+SLINGPART2(SEE2)    is a  powerful big  sky  P.L invented    in  JDollar  by  wilmix jemin  j for  cloud  computing at  year  2016.
 
 SLING is  Used  with  JDollar(J$)  invented by wilmix jemin j at year 2015.
 
@@ -10,19 +10,23 @@ SLING has userfriendly framework called as
 
 JAUF. SEE2  is   SLING PART2.....
 
-and it has latest technologies like
+and it has latest sub  modules  like
 
 JC , Jeb, JShell, JSync, JSLASH, ODollar, Oplus,
 
-Tdollar,Wsharp, A$, WHTML, Petal, wplus,
+ WHTML, Petal, 
 
 VJAVA, VSLASH ,and GJAVA.
 
- SLING is called as a "SKY Technology";  since  it  has  many  latest  technologies.
+ SLING is called as a "SKY  Programming  Language";  since  it  has  many  latest P.L  and  frameworks.
 
+The  difference   between    JDollar  and  SLing  part2 is  
 
+JDollar  Part2  consists  of   framework  and  langauages
 
-THE LIST OF Latest technologies with Merits
+but   SLing Part2  consists of  only  frameworks. 
+
+THE LIST OF Latest Frameoworks with Merits
 =============================================
 
 1) JAUF -> Userfriendly and GUI Design
@@ -39,19 +43,19 @@ THE LIST OF Latest technologies with Merits
 
 7)Oplus -> Used in Indian It sector.
 
-8) Tdollar -> can be used as a helper technology of J$ to eliminate J$ demerits.
+8) Tdollar -> can be used as a helper  framework of J$ to eliminate J$ demerits.
 
 9) Wsharp -> contains shortest statements and utilities
 
-It itself act like a Technology.
+It itself act like a framework
 
 10) Petal -> It is used with VJAVA, JAVA, J$ professionals
 
-11) WPLUS -> Attractive Indian latest Technology
+11) WPLUS -> Attractive Indian latest framework
 
-12) VSlASH -> SIMILLAR to struts -spring orm technology.
+12) VSlASH -> SIMILLAR to struts -spring orm  framework.
 
-13) GJAVA -> Used with google technologies
+13) GJAVA -> Used with google  P.L
 
 14) WHTML -> Used with J$ and HTML
 
@@ -59,22 +63,22 @@ It itself act like a Technology.
 
 16) ADollar -> It is used in Advanced Business.
 
-17) UJDollar => it is an american and U.k technology based on Jdollar used in American and U.k sector.
+17) UJDollar => it is an american and U.k  framework based on Jdollar used in American and U.k sector.
 
-18) BHTML and CSP => it is an Banking Technology invented in JDollar.
+18) BHTML and CSP => it is an Banking framework invented in JDollar.
 
-19) J$REmote => it is an one minute Automation Jdollar Advanced Technology for creating remoteserver.
+19) J$REmote => it is an one minute Automation Jdollar Advanced P.L for creating remoteserver.
 
-20) J$JSLASH => it is an one minute Automation Jdollar Advanced Technology.
+20) J$JSLASH => it is an one minute Automation Jdollar Advanced P.L.
 
-21) SAP =>interaction with sap technology
+21) SAP =>interaction with sap P.L
 
-22) PHY=> Interaction with phython technology.
+22) PHY=> Interaction with phython P.L.
 
 23) SAUCER  =>  SLING  WEBDESIGN
 
 24) WSTAR AND  WXML  => for  graphics  and   forms  and  reports  etc.
 
-and  many more... up to 50 latest  Technologies.
+and  many more... up to 50 latest  frameworks.
 
 
