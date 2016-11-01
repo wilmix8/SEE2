@@ -2,7 +2,7 @@
 ==========
 
 
-SLINGPART2(SEE2)    is a  powerful big  sky  P.L invented    in  JDollar  by  wilmix jemin  j for  cloud  computing at  year  2016.
+SLINGPART2(SEE2)    is a  powerful big  sky  P.L invented    in  JDollar  by  wilmix jemin  j at  year  2016.
 
 SLING is  Used  with  JDollar(J$)  invented by wilmix jemin j at year 2015.
 
