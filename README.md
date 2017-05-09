@@ -53,7 +53,7 @@ It itself act like a framework
 
 10) Petal -> It is used with VJAVA, JAVA, WEB professionals
 
-11) WPLUS -> Attractive Indian latest framework
+11) WPLUS -> Attractive latest framework
 
 12) VSlASH -> SIMILLAR to struts -spring orm  framework.
 
