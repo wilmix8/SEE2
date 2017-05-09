@@ -73,9 +73,9 @@ It itself act like a framework
 
 20) JSLASH => it is an one minute Automation WEB Advanced P.L.
 
-21) SAP =>interaction with sap P.L
+21) SAP(STANDARD REMOTE APPLICATION) =>interaction with  BSTAR  of  SLINGPart1
 
-22) PHY=> Interaction with phython P.L.
+22) ECOM=> Interaction with  ECOMMERCE  of  SLINGPart1
 
 23) SAUCER  =>  SLING  WEBDESIGN
 
