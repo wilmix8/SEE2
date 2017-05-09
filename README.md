@@ -6,7 +6,7 @@
 
 SLINGPART2(SEE2)    is a  powerful big  sky  P.L invented    in  WEB  by  wilmix jemin  j at  year  2016.
 
-SLING is  Used  with  WEB  invented by wilmix jemin j at year 2015.
+SLING is  Used  with  JDOLLAR(JWEB)  invented by wilmix jemin j at year 2015.
 
 SLING has userfriendly framework called as
 
@@ -73,9 +73,9 @@ It itself act like a framework
 
 20) JSLASH => it is an one minute Automation WEB Advanced P.L.
 
-21) SAP(STANDARD REMOTE APPLICATION) =>interaction with  BSTAR  of  SLINGPart1
+21) SAP(STANDARD REMOTE APPLICATION) =>interaction with  BSTAR  of  SLINGPart1 with SAP  technology
 
-22) ECOM=> Interaction with  ECOMMERCE  of  SLINGPart1
+22) ECOM=> Interaction with  ECOMMERCE  of  SLINGPart1  with  PHYTHON Technology
 
 23) SAUCER  =>  SLING  WEBDESIGN
 
