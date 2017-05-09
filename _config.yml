@@ -1,0 +1,8 @@
+title: See2
+description: SLINGPART2(SEE2)    is a  powerful big  sky Programming Language  invented    in  WEB  by  wilmix jemin  j for  Terminal WebService at  year  2016.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
